@@ -8,9 +8,13 @@ Feito a requisição ao MTE (Ministério do Trabalho e Emprego/Ministério da Ec
 O código se encontra no arquivo ```index.ts```.
 
 steps:
+
 [X] Carregar página;
+
 [X] Inserir dados nos campos;
+
 [X] Realizar busca;
+
 [?] Raspar informações;
 
 
